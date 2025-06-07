@@ -59,6 +59,7 @@ The primary goal of this dashboard was to:
 ## 🧰 Tools Used
 
 - **Power BI** : Dashboard development and reporting      
-- **Excel/CSV** : Raw data import and transformation       
+- **Excel/CSV** : Raw data import and transformation
+- **PostgreSQL**: Data tables, views & cte      
 - **Power Query** : Data cleaning, joins, and filtering     
 - **DAX**       : Measures, calculated columns, KPIs       
